@@ -1,6 +1,5 @@
 # MachineLearning-CSCI-6505
-This project for learning Machine Learning as per taught by Professor Thomas Trapenberg at DAL.
-
+Machine Learning as taught by Professor Thomas Trapenberg at DAL.
 There are 7 Assignments covered in this course :-
 
 <br>Assignment 1– Introduction to Python for Machine Learning <br>
@@ -13,4 +12,4 @@ There are 7 Assignments covered in this course :-
 
 In this project I have tried to provide all the solutions to these assignments, and the  best part and the most interesting part is to implement the ML algorithms from scratch.
 
-Will keep updating this project with more and better refined solutions.
+
